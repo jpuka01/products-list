@@ -20,7 +20,9 @@ popular format for transmitting data between a client and server because it's
 easy to parse and generate.
 
 [Reference 1](https://www.codecademy.com/resources/blog/what-is-xml-used-for/)
+
 [Reference 2](https://aws.amazon.com/what-is/xml/#:~:text=Extensible%20Markup%20Language%20(XML)%20lets,%2C%20and%20third%2Dparty%20applications.)
+
 [Reference 3](https://www.json.org/json-en.html)
 
 2. Which do you prefer: XML or JSON? And why? 
