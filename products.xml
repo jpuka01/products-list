@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/css" href="products.css"?>
+
+<products>
+    <product>
+        <name>Cheeseburger</name>
+        <description>Local grass-fed beef grilled to perfection with fresh Monterey Jack cheese, lettuce, tomatoes, and sourdough buns.</description>
+        <price>$14.99</price>
+        <categories>
+            <category>burgers</category>
+            <category>fast food</category>
+            <category>beef patty</category>
+        </categories>
+    </product>
+    <product>
+        <name>Club Sandwich</name>
+        <description>Finely sliced turkey and bacon, lettuce, tomatoes, and mayonaise topped on freshly baked sourdough bread.</description>
+        <price>$13.99</price>
+        <categories>
+            <category>sandwiches</category>
+            <category>bacon</category>
+            <category>best sellers</category>
+        </categories>
+    </product>
+    <product>
+        <name>Fish &amp; Chips</name>
+        <description>Fresh cod imported from Scandinavia, deep fried and lightly seasoned with a side of our homemade fries and your choice of dip.</description>
+        <price>$13.99</price>
+        <categories>
+            <category>seafood</category>
+            <category>fast food</category>
+            <category>chips</category>
+        </categories>
+    </product>
+    <product>
+        <name>Homemade Fries</name>
+        <description>Local grown potatoes fried till golden brown and lightly seasoned with salt.</description>
+        <price>$8.99</price>
+        <categories>
+            <category>fries</category>
+            <category>potato ingredients</category>
+            <category>side meals</category>
+        </categories>
+    </product>
+    <product>
+        <name>Kale Salad</name>
+        <description>Made with fresh, hearty kale, Parmesan cheese, toasted almonds, dried cranberries, and a fresh lemon balsamic dressing.</description>
+        <price>$10.99</price>
+        <categories>
+            <category>salad</category>
+            <category>kale</category>
+            <category>healthy</category>
+        </categories>
+    </product>
+    <product>
+        <name>Freshly Baked Cookies</name>
+        <description>New cookies made weekly! This week&apos;s cookie is blueberry muffin, made with vanilla cookie base marbled with blueberry jam, loaded up with blueberries and finally topped with a crunchy streusel topping.</description>
+        <price>$9.99</price>
+        <categories>
+            <category>cookies</category>
+            <category>specialty</category>
+            <category>desserts</category>
+        </categories>
+    </product>
+    <product>
+        <name>Pumpkin Pie</name>
+        <description>Seasonal dessert made with locally grown pumpkins, topped with crushed walnuts and thick whipped cream.</description>
+        <price>$11.99</price>
+        <categories>
+            <category>pies</category>
+            <category>pumpkin recipes</category>
+            <category>desserts</category>
+            <category>seasonal</category>
+        </categories>
+    </product>
+    <product>
+        <name>Ground Coffee</name>
+        <description>New coffee every week! Carefully sourced around the world. This week&apos; s coffee: Marrakesh blend coffee, a Moroccan Arabica blend with dark medium roast and a delicate aroma.</description>
+        <price>$5.99</price>
+        <categories>
+            <category>coffee</category>
+            <category>drinks</category>
+            <category>specialty</category>
+        </categories>
+    </product>
+</products>

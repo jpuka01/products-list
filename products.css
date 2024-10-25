@@ -1,0 +1,47 @@
+/* Imported Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Mukta:wght@200;300;400;500;600;700;800&display=swap');
+
+body {
+    font-family: 'Mukta', sans-serif;
+    background-color: #f1f1f1;
+    margin: 0;
+    padding: 20px;
+}
+
+product {
+    display: block;
+    border: 2px solid #cfcfcf;
+    border-radius: 2px;
+    margin: 10px;
+    padding: 10px;
+    background-color: #f9f9f9;
+    font-family: 'Mukta', sans-serif;
+}
+
+product > name {
+    display: block;
+    font-size: 18px;
+    font-weight: bold;
+    color: #333333;
+    font-family: 'Mukta', sans-serif;
+}
+
+product > description {
+    display: block;
+    font-style: italic;
+    color: #666666;
+}
+
+product > price {
+    display: block;
+    color: #11aa00;
+    font-weight: bold;
+}
+
+product > categories > category {
+    background-color: #eeeeee;
+    margin-right: 5px;
+    padding: 2px 5px;
+    border-radius: 3px;
+    display: inline-block;
+}
